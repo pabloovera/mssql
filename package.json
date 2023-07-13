@@ -1,0 +1,14 @@
+{
+  "name": "prueba-mssql",
+  "version": "1.0.0",
+  "description": "ejemplo mssql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PABLOVE",
+  "license": "ISC",
+  "dependencies": {
+    "msnodesqlv8": "^4.1.0"
+  }
+}
